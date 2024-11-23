@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "544782270630",
+    "firebase_url": "https://lam-giau-beauty-default-rtdb.firebaseio.com",
+    "project_id": "lam-giau-beauty",
+    "storage_bucket": "lam-giau-beauty.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544782270630:android:22fed187124175726af467",
+        "android_client_info": {
+          "package_name": "lamgiaubeauty.ezs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSLUQnfPTaqRAqLuaOE9j_4qRs81S6aGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
